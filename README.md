@@ -1,3 +1,8 @@
+# Chess.js ported for your Meteor pleasures!
+
+Docs below. [Original repo](https://github.com/jhlywa/chess.js)
+
+
 # chess.js
 
 chess.js is a Javascript chess library that is used for chess move
